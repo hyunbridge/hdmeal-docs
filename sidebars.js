@@ -14,7 +14,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   sidebar: [
-    "흥덕고 급식",
+    "환영합니다",
     {
       type: "category",
       label: "앱",
