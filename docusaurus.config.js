@@ -118,8 +118,8 @@ const config = {
 
   stylesheets: [
     {
-      href: "https://cdn.jsdelivr.net/gh/sunn-us/SUIT@1.2.1/fonts/static/woff2/SUIT.css",
-      integrity: "sha256-Wi0wE+73TX/vUbfV5vMuoUQHFj6zXK9QM/qXSUBXC9U=",
+      href: "https://cdn.jsdelivr.net/gh/sunn-us/suit@1.2.4/fonts/static/woff2/SUIT.css",
+      integrity: "sha256-h/nTGKDGt7BBfETlSrBVVoX045DFYfTrfsxOtzWHuxo=",
       crossorigin: "anonymous",
     },
   ],
