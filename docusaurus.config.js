@@ -76,8 +76,8 @@ const config = {
             title: "연락처",
             items: [
               {
-                label: "메일 보내기",
-                href: "mailto:hekn2y4j@duck.com",
+                label: "문의하기",
+                href: "https://contact.hgseo.net",
               },
             ],
           },
